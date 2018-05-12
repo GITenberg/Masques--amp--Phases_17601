@@ -1,0 +1,31 @@
+_repo: Masques--amp--Phases_17601
+_version: 0.1.0
+alternative_title: Masques and Phases
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ross, Robert Baldwin
+    alias: Ross, Robbie
+    birthdate: 1869
+    deathdate: 1918
+    gutenberg_agent_id: '5421'
+    url: http://www.gutenberg.org/2009/agents/5421
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Baldwin_Ross
+description: ''
+gutenberg_issued: '2006-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'English literature -- 20th century'
+- !lcsh 'English essays'
+- !lcc 'PR'
+title: Masques & Phases
+url: http://www.gutenberg.org/ebooks/17601
