@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5421
     wikipedia: http://en.wikipedia.org/wiki/Robert_Baldwin_Ross
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17601#Masques--amp--Phases
 gutenberg_issued: '2006-01-24'
 gutenberg_type: Text
 identifiers:
